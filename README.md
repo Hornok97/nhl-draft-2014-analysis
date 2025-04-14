@@ -1,13 +1,13 @@
 
 # NHL Draft 2014 – Data Analysis Project
 
-Tento projekt analyzuje draft NHL z roku 2014 a sleduje, jak si jednotliví hráči vedli po svém výběru. Data jsou získána ze serveru EliteProspects, uložena do databáze, analyzována pomocí SQL a Pythonu. Výsledkem je také čistý Excelový report se všemi klíčovými přehledy.
+Tento projekt analyzuje draft NHL z roku 2014 a sleduje, jak si jednotliví hráči vedli po svém výběru. Data jsou získána ze serveru EliteProspects, uložena do databáze, analyzována pomocí SQL a Pythonu. Výsledkem je také čistý Excelový report se všemi klíčovými přehledy. Ůvodní myšlenka pro mě byla zjistit, jak si vede David Pastrňák.
 
 ---
 
 ## Co se naučíte / ukážete
 
-- Web scraping a předzpracování dat
+- Web scraping a zpracování dat
 - Uložení dat do relační databáze (MySQL, SQLite)
 - Pokročilá práce s SQL dotazy
 - Analýza pomocí Pythonu (pandas, matplotlib, seaborn)
@@ -18,7 +18,7 @@ Tento projekt analyzuje draft NHL z roku 2014 a sleduje, jak si jednotliví hrá
 
 ## Instalace a spuštění
 
-### 1️ Klonuj projekt nebo si jej stáhni:
+### 1️ Klonuj projekt nebo si jej stáhni(Doporučuji stahovat):
 
 ```bash
 git clone https://github.com/tvuj-username/nhl-draft-2014-analysis.git
