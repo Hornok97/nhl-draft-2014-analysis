@@ -5,7 +5,7 @@ import pandas as pd
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Barcelona97",  # nahraď svým heslem
+    password="********",  # nahraď svým heslem
     database="nhl_draft"
 )
 
