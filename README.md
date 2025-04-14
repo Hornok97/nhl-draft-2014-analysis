@@ -114,7 +114,4 @@ nhl-draft-2014-analysis/
 
 ## Autor
 
-**Tvoje jméno**  
-GitHub: [tvuj-username](https://github.com/tvuj-username)
-
----
+[Hornok97](https://github.com/Hornok97)
