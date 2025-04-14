@@ -31,7 +31,7 @@ cd nhl-draft-2014-analysis
 pip install pandas matplotlib seaborn openpyxl mysql-connector-python
 ```
 
-### 3️ Získej data (pokud je chceš stáhnout znova):
+### 3️ Získej data:
 
 ```bash
 python src/elite_prospect.py
